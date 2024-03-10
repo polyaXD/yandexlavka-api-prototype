@@ -5,9 +5,9 @@
 * Gradle 7.6.1
 * Docker 
 --------------------------------------
-Исходный текст задания можно посмотреть [здесь](https://github.com/Busygind/yandex-lavka-api-prototype/tree/main/src/main/resources)
+Исходный текст задания можно посмотреть [здесь](https://github.com/polyaXD/yandexlavka-api-prototype/tree/main/src/main/resources)
 
-Спецификацию к API можно посмотреть [здесь](https://github.com/Busygind/yandex-lavka-api-prototype/blob/main/src/main/resources/spec.yaml)
+Спецификацию к API можно посмотреть [здесь](https://github.com/polyaXD/yandexlavka-api-prototype/blob/main/src/main/resources/spec.yaml)
 
 --------------------------------------
 ### Общие сведения для проверяющих:
